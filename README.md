@@ -1,7 +1,7 @@
 # 🎨 My First Portfolio — Two Pages of Pure HTML & CSS Magic!
 
 Hello world! 👋  
-This is my **first-ever portfolio website** [link], lovingly crafted with just **HTML**, **basic CSS**, and a whole lot of enthusiasm — all inside **VS Code** 💻💖
+This is my **first-ever portfolio website** https://roozz24.github.io/Roozz-s-portfolio/, lovingly crafted with just **HTML**, **basic CSS**, and a whole lot of enthusiasm — all inside **VS Code** 💻💖
 
 It’s simple, it’s clean(ish), and it’s got... *drumroll*... **TWO WHOLE PAGES**.
 
