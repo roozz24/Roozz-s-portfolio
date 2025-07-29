@@ -15,6 +15,7 @@ body {
     background-color: #F5DEB3;
     color: rgb(0, 0, 0);
     padding: 20px;
+    border-radius: 10px;
 } 
 
 .section-one__contact{
@@ -27,6 +28,7 @@ body {
     padding-bottom: 2px;
     display: inline-block;
     margin-top: 10px;
+    border-radius: 10px;
 }
 
 .section-one__name {
@@ -50,6 +52,7 @@ body {
     background-color: black;
     color: white;
     padding: 20px;
+    border-radius: 10px;
 }
 
 .section-five__title a {
@@ -107,4 +110,5 @@ body {
     background-color: #9e9da1;
     color: white;
     border: none;
+    border-radius: 10px;
 }
